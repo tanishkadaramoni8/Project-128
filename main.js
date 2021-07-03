@@ -1,9 +1,6 @@
 song1 = "";
 song2 = "";
 
-song1_status = "";
-song2_status = "";
-
 scoreRightWrist = 0;
 scoreLeftWrist = 0;
 
